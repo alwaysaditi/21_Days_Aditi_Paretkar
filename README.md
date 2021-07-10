@@ -8,3 +8,5 @@ Day 2: started learning data science from youtube videos(from scratch)
 Day 3: continue learning data science from edureka's youtube videos. Revised python for DS.
 
 Day 4 : started and revised basics of Numpy 
+
+Day 5: revised Numpy , learnt basics of MatPlotlib
