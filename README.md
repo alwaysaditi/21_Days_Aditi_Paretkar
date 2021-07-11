@@ -10,3 +10,5 @@ Day 3: continue learning data science from edureka's youtube videos. Revised pyt
 Day 4 : started and revised basics of Numpy 
 
 Day 5: revised Numpy , learnt basics of MatPlotlib
+
+Day 6: revised numerous other functions of Numpy , MatPlotlib, explored Scikitlearn
