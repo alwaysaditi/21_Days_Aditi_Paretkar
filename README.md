@@ -12,3 +12,5 @@ Day 4 : started and revised basics of Numpy
 Day 5: revised Numpy , learnt basics of MatPlotlib
 
 Day 6: revised numerous other functions of Numpy , MatPlotlib, explored Scikitlearn
+
+Day 7: Started with basics of ML from edureka's online course
