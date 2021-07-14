@@ -16,3 +16,5 @@ Day 6: revised numerous other functions of Numpy , MatPlotlib, explored Scikitle
 Day 7: Started with basics of ML from edureka's online course
 
 Day 8: started and revised basics of Pandas for data analysis.
+
+Day 9: revised Pandas and explored seaborn
