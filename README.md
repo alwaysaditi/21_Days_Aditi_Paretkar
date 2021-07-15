@@ -18,3 +18,5 @@ Day 7: Started with basics of ML from edureka's online course
 Day 8: started and revised basics of Pandas for data analysis.
 
 Day 9: revised Pandas and explored seaborn
+
+Day 10: explored various data visualization techniques and revised MatPlotlib
