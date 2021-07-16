@@ -20,3 +20,7 @@ Day 8: started and revised basics of Pandas for data analysis.
 Day 9: revised Pandas and explored seaborn
 
 Day 10: explored various data visualization techniques and revised MatPlotlib
+
+Day 11: practiced pandas problems on Kaggle datasets.
+Links to all problems I solved today :https://www.kaggle.com/aditiparetkar/notebook09a4300a2d
+https://www.kaggle.com/aditiparetkar/exercise-summary-functions-and-maps
