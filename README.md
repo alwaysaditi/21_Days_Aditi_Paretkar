@@ -23,3 +23,5 @@ Day 10: explored various data visualization techniques and revised MatPlotlib
 
 Day 11: practiced pandas problems on Kaggle datasets.
 Links to all problems I solved today :https://www.kaggle.com/aditiparetkar/notebook09a4300a2d
+
+https://www.kaggle.com/aditiparetkar/exercise-data-types-and-missing-values
