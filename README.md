@@ -25,3 +25,7 @@ Day 11: practiced pandas problems on Kaggle datasets.
 Links to all problems I solved today :https://www.kaggle.com/aditiparetkar/notebook09a4300a2d
 
 https://www.kaggle.com/aditiparetkar/exercise-data-types-and-missing-values
+
+Day 12: solved problems from this repository : https://github.com/guipsamora/pandas_exercises
+
+lnks to solved problems : https://www.kaggle.com/aditiparetkar/notebook837cc4d4db
