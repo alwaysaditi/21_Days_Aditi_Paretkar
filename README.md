@@ -30,3 +30,14 @@ Day 12: solved problems from this repository : https://github.com/guipsamora/pan
 
 links to solved problems : https://www.kaggle.com/aditiparetkar/notebook837cc4d4db
 https://www.kaggle.com/aditiparetkar/notebook80e902e318
+
+Day 13: went through Kernel Density Estimation ,made notes on Categorical , Distribution and Matrix plots in Seaborn(working on built-in tips dataset)
+Distplot
+![image](https://user-images.githubusercontent.com/68003668/126074682-298c1352-212c-4625-a90d-1943993d7ee9.png)
+Joint Plot
+![image](https://user-images.githubusercontent.com/68003668/126074693-ee5e8932-ad6b-4a85-9875-237d42c74cf8.png)
+PairPlot:
+![image](https://user-images.githubusercontent.com/68003668/126074737-1759f8cc-a638-4260-bf73-6d3166ff4612.png)
+Categorical Plot: countplot
+![image](https://user-images.githubusercontent.com/68003668/126074765-462424db-12c8-4d1c-bdd5-216c439c8c91.png)
+etc and many more.
