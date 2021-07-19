@@ -48,3 +48,10 @@ Day 14:
 3.   learnt about normalization of clustermaps in Seaborn
 4. solved Seaborn exercises on 'titanic' dataset . link : https://www.kaggle.com/aditiparetkar/seaborn-exercises
 
+Summary 
+1. Histogram : plots the distribution of the frequency of variables of a univariate data
+2. Bargraph : uses bars , can have more than one category of data
+3. scatterplot: uses dots to represent the relation , when a regression line is drawn it shows the variance from expected value
+4. boxplot : used to plot the interquratile ranges (1st , and 3rd quarters , min and max values , and median) by means of a box
+5. KDE : Kernal Density Estimation plots are used to plot the KDE line which is drawn from the sum of the normal distributions drawn about each figure.
+
