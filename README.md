@@ -46,10 +46,5 @@ Day 14:
 1. learnt about Interquartile Range in box-plots 
 2.  explored heatmaps in flights data set 
 3.   learnt about normalization of clustermaps in Seaborn
-
-![image](https://user-images.githubusercontent.com/68003668/126146296-3eb1d756-95cc-4c80-b1bf-c0b9cd5aaf60.png)
-
-![image](https://user-images.githubusercontent.com/68003668/126146378-47218a73-ee58-4868-b210-2bfe4c844d95.png)
-
-
+4. solved Seaborn exercises on 'titanic' dataset . link : https://www.kaggle.com/aditiparetkar/seaborn-exercises
 
