@@ -46,7 +46,7 @@ Day 14:
 1. learnt about Interquartile Range in box-plots 
 2.  explored heatmaps in flights data set 
 3.   learnt about normalization of clustermaps in Seaborn
-4. solved Seaborn exercises on 'titanic' dataset . link : https://www.kaggle.com/aditiparetkar/seaborn-exercises
+4. solved Seaborn exercises on 'titanic' dataset.
 
 Summary 
 1. Histogram : plots the distribution of the frequency of variables of a univariate data
