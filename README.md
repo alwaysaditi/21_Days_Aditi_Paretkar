@@ -55,3 +55,6 @@ Summary
 4. boxplot : used to plot the interquratile ranges (1st , and 3rd quarters , min and max values , and median) by means of a box
 5. KDE : Kernal Density Estimation plots are used to plot the KDE line which is drawn from the sum of the normal distributions drawn about each figure.
 
+Day 15: Completed Data Capstone Project on 911 Calls
+Link- https://www.kaggle.com/aditiparetkar/data-capstone-project-911-calls
+
