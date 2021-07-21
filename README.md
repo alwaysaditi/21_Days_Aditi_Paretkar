@@ -62,5 +62,7 @@ Intermediate Track
 
 Day 16 : Predicted the Yearly Amount Spent by customers on an Ecommerce website using sklearn.linear_model (using Linear Regression).
 Link: https://www.kaggle.com/aditiparetkar/linear-regression-ecommerce
+Predicted Chance of Admission on the basis of GRE Score.
+Link: https://www.kaggle.com/aditiparetkar/predicting-importance-of-gre-scores
 
 
