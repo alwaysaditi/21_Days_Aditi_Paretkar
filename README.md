@@ -58,6 +58,8 @@ Summary
 Day 15: Completed Data Capstone Project on 911 Calls
 Link- https://www.kaggle.com/aditiparetkar/data-capstone-project-911-calls
 
+Intermediate Track
+
 Day 16 : Predicted the Yearly Amount Spent by customers on an Ecommerce website using sklearn.linear_model (using Linear Regression).
 Link: https://www.kaggle.com/aditiparetkar/linear-regression-ecommerce
 
