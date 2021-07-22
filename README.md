@@ -67,4 +67,5 @@ Link: https://www.kaggle.com/aditiparetkar/linear-regression-ecommerce
 Predicted Chance of Admission on the basis of GRE Score.
 Link: https://www.kaggle.com/aditiparetkar/predicting-importance-of-gre-scores
 
-
+Day 17: Understood the concept of Euclidean Distance in K Nearest Neighbors Algorithm.
+Explored the effect of changing the number of neighbours in KNN Algorithm to the overall accuracy of the Algorithm.
