@@ -69,3 +69,7 @@ Link: https://www.kaggle.com/aditiparetkar/predicting-importance-of-gre-scores
 
 Day 17: Understood the concept of Euclidean Distance in K Nearest Neighbors Algorithm.
 Explored the effect of changing the number of neighbours in KNN Algorithm to the overall accuracy of the Algorithm.
+
+Day 18: used Random Forest Classifier to predict whether a user would pay back the loan in  full amount.
+
+Link: https://www.kaggle.com/aditiparetkar/randomforest-classifier
