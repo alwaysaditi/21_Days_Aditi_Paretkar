@@ -73,3 +73,9 @@ Explored the effect of changing the number of neighbours in KNN Algorithm to the
 Day 18: used Random Forest Classifier to predict whether a user would pay back the loan in  full amount.
 
 Link: https://www.kaggle.com/aditiparetkar/randomforest-classifier
+
+Day 19 : Performed Exploratory Data Analysis on Sample Superstore
+
+Link : https://www.kaggle.com/aditiparetkar/exploratory-data-analysis-store
+
+Understood hyperparameter tuning in Support Vector Machines using sklearn.model_selection.GridSearchCV
