@@ -79,3 +79,6 @@ Day 19 : Performed Exploratory Data Analysis on Sample Superstore
 Link : https://www.kaggle.com/aditiparetkar/exploratory-data-analysis-store
 
 Understood hyperparameter tuning in Support Vector Machines using sklearn.model_selection.GridSearchCV
+
+Day 20: Wrote this article on Medium on Support Vector Machines 
+ https://link.medium.com/odeHnFb1aib
