@@ -82,3 +82,5 @@ Understood hyperparameter tuning in Support Vector Machines using sklearn.model_
 
 Day 20: Wrote this article on Medium on Support Vector Machines 
  https://link.medium.com/odeHnFb1aib
+
+Day 21: Understood the Maths behind K Means Clustering.
