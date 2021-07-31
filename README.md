@@ -1,6 +1,7 @@
 # 21_Days_Aditi_Paretkar
 Initial Repository for the 21 days challenge by Datazen Somaiya
-Completed Intermediate Level BigMart Sales Analysis Project
+
+
 
 Day 1 : revised Python datatypes , and data structures , conditional statements.
 
@@ -85,3 +86,5 @@ Day 20: Wrote this article on Medium on Support Vector Machines
  https://link.medium.com/odeHnFb1aib
 
 Day 21: Understood the Maths behind K Means Clustering.
+
+Completed Intermediate Level BigMart Sales Analysis Project (kindly check the folders)
